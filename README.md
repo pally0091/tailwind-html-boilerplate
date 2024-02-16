@@ -1,3 +1,4 @@
+# Ready with Tailwind setup HTML Boilerplate
 
 ## Installation
 Download or clone this repository
