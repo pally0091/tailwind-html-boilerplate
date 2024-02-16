@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx tailwindcss -i ./src/style.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "Debashis Roy",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
