@@ -1,6 +1,8 @@
 # Ready with Tailwind setup HTML Boilerplate
 
 ## Installation
+Click on Use this template 
+Or
 Download or clone this repository
 
 Install with npm
