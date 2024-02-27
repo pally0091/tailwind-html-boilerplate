@@ -18,3 +18,5 @@ Install with pnpm
   pnpm install 
   pnpm dev
 ```
+
+After run dev just open it with live server from VS Code
